@@ -36,8 +36,10 @@ website:
             text: Lab environment
           - file: environment/code_of_conduct.qmd
             text: Code of conduct
-          - file: environment/expectations.qmd
-            text: Expectations
+          - file: environment/communication.qmd
+            text: Communication
+          - file: environment/meetings.qmd
+            text: Lab meetings
           - file: environment/mentoring.qmd
             text: Mentoring
           - file: environment/work_life_balance.qmd
