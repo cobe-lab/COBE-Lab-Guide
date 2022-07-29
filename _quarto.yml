@@ -1,0 +1,24 @@
+project:
+  type: website
+  title: "Julia Workshop, ISCB 2022, Madison"
+
+website:
+  title: "Julia Workshop"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - file1.qmd
+      - file2.qmd
+      - file3.qmd
+  page-navigation: true
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
