@@ -28,33 +28,56 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      - section: "Course information"
+      - href: about.qmd
+        text: About us
+      - section: "Lab Environment"
         contents:
-          - href: course-overview.qmd
-            text: Overview
-          - href: course-syllabus.qmd
-            text: Syllabus
-          - href: course-support.qmd
-            text: Support
-          - href: course-team.qmd
-            text: Teaching team
-          - href: course-links.qmd
-            text: Useful links
-          - href: course-faq.qmd
-            text: FAQ
-      - section: "Computing"
+          - href: lab_environment.qmd
+          - text: Lab environment
+          - href: code_of_conduct.qmd
+            text: Code of conduct
+          - href: expectations.qmd
+            text: Expectations
+          - href: mentoring.qmd
+            text: Mentoring
+          - href: work_life_balance.qmd
+            text: Work/life balance
+          - href: working_remotely.qmd
+            text: Working remotely
+      - section: "Funding & opportunities"
         contents:
-          - href: computing-access.qmd
-            text: Access
-          - href: computing-troubleshooting.qmd
-            text: Troubleshooting
-      - section: "Project"
+          - href: Funding.qmd
+            text: Funding
+      - section: "Publications"
         contents:
-          - href: project-description.qmd
-            text: Description
-          - href: project-tips-resources.qmd
-            text: Tips + resources
-
+          - href: addressing_errors.qmd
+            text: Addressing errors
+          - href: authorship.qmd
+            text: Authorship
+          - href: conferences.qmd
+            text: Conferences
+          - href: open_access.qmd
+            text: Open Access 
+          - href: public_engagement.qmd
+            text: Public engagement
+      - section: "Research"
+        contents:
+         - href: copilot.qmd
+           text: Copilot system
+         - href: rdm.qmd
+           text: Data Managment
+         - href: extern.qmd
+           text: External partners
+         - href: facilities.qmd
+           text: Facilities
+         - href: ip.qmd
+           text: Intellectual Property
+         - href: preg.qmd
+           text: Preregistration 
+         - href: support.qmd
+           text: Support
+        
+          
   page-footer: This guide is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 format:
