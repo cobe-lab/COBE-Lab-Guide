@@ -1,0 +1,8 @@
+
+# Communication 
+
+1. Dr. Verbruggen relies primarily upon email for communication, and generally responds quickly to
+emails unless traveling or away from work. Unless otherwise agreed (e.g., for field work), alternative communication channels (such as Slack, Signal, or Whatsapp) should only be used for non-urgent or non-work-related messages. 
+2. A lot of the research involves team work, so communication is key. For large collaborative projects, regular updates should be shared with the whole team. 
+3. If you expect a direct response or action, use the “To” field; if you want to keep people in the loop in a transparent way, use the “Cc” field.
+4. As a general rule, place the PI and co-Is (or PhD supervisors) in cc in all important team conversations and communications with external partners. 

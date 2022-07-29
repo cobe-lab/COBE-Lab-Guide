@@ -1,0 +1,65 @@
+# Code of conduct
+
+All lab members and guests are expected to adhere to the following code of conduct. 
+In addition, all lab members are required to adhere to the [Ghent University code of conduct on boundary-crossing behaviour](https://codex.ugent.be/?regid=REG000110&lang=en).
+
+If you wish to speak with someone outside of the lab regarding an
+incident that occurred in or outside of the lab, you can contact [Trustpunt](https://www.ugent.be/intranet/en/human-resources/health-safety/psychosocial-welfare/overview.htm) 
+or an ombudsperson within the faculty or university. 
+Contact details can be found [here](https://www.ugent.be/intranet/en/internal-ombudsperson) (intranet)
+
+## Statement of intent
+
+Our lab is dedicated to providing a safe and welcoming environment for everyone. We do not
+tolerate harassment for any form of identity such as but not limited
+to: sex, gender identity, age, sexual orientation, disability
+including mental illness, physical appearance, body size, race,
+ethnicity, religion (including the lack thereof), or socioeconomic
+status. We do not tolerate harassment of lab members or guests in
+any form. Sexual language and imagery is not appropriate for any lab
+event or venue, including talks, workshops, parties, Twitter and
+other online media.
+
+## Details of Lab Code of Conduct
+
+There are different forms of behaviour that cross personal boundaries:
+
+1. Violence: physical or psychological threats or attacks at work.
+
+2. Bullying: repeated behaviour – language, threats, actions, gestures, texts, ignoring, etc. – that is hostile, insulting or offensive. It undermines the person’s character, dignity or (psychological or physical) integrity, or endangers their job.
+
+3. Sexual harassment: any form of verbal, non-verbal or physical behaviour with a sexual connotation that undermines a person’s dignity or is threatening, hostile, degrading, humiliating or offensive.
+
+4. Discrimination: a person who is treated unequally based on personal characteristics (such as origin, gender, age, sexual orientation, skin colour, religion, beliefs, disability, etc.)
+
+(Definitions from [Trustpunt @UGent](https://www.ugent.be/intranet/en/human-resources/health-safety/psychosocial-welfare/themes/boundary-crossing-behaviour/boundarycrossingbehaviour.htm))
+
+## Responding to incidents
+
+1. Lab members asked to stop any
+    misconduct are expected to comply immediately. Justification for the
+    request does not need to be provided, nor does the reporting party
+    of the incident need to be identified.
+2. If you are being harassed,
+    notice that someone else is being harassed, or have any other
+    concerns, please contact Dr. Verbruggen as soon as possible. 
+    <!-- Anonymous -->
+    <!-- comments may also be made to Dr. Poldrack using[ -->
+    <!-- this -->
+    <!-- form](https://poldracklab.wufoo.com/forms/z5hpmzx1uf8hce/). -->
+    If you are not comfortable contacting him directly, you may report
+    your concerns to [Trustpunt](https://www.ugent.be/intranet/en/human-resources/health-safety/psychosocial-welfare/overview.htm) or an [ombudsperson](https://www.ugent.be/intranet/en/internal-ombudsperson), who are prepared to respond to harassment complaints.
+3.  We expect lab members to
+    follow this code of conduct at conferences and workshops and related
+    social events, and whenever they are representing the lab in a
+    professional context.
+4.  When lab members are invited
+    to participate in a professional event, they are expected to inquire
+    regarding the steps that the organizers are taking to ensure
+    diversity prior to accepting any invitation. This includes declining
+    participation in exclusionary events such as panels or talks. For
+    example, men in the lab should avoid participating in all-men panels
+    whenever possible, keeping in mind that this may be more achievable
+    for senior versus junior lab members.
+
+(Originally adapted by R.A. Poldrack from https://en-us.confcodeofconduct.com)
