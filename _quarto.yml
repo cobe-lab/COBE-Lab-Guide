@@ -1,19 +1,61 @@
 project:
   type: website
-  title: "Julia Workshop, ISCB 2022, Madison"
+  title: "The 'Cognition Behavior and Ecology' Lab Guide"
 
 website:
-  title: "Julia Workshop"
+  title: "The 'Cognition Behavior and Ecology' Lab Guide"
+  page-navigation: true
+  
+  navbar:
+    background: light
+    collapse-below: lg
+    right:
+      - icon: twitter
+        href: https://twitter.com/cobe_lab
+        aria-label: COBE Lab Twitter
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/cobe-lab/Lab-guide
+          - text: Comments
+            url:  https://github.com/cobe-lab/Lab-guide/issue
+
   sidebar:
     style: "docked"
     search: true
+    border: true
+    collapse-level: 2
     contents:
-      - index.qmd
-      - file1.qmd
-      - file2.qmd
-      - file3.qmd
-  page-navigation: true
+      - href: index.qmd
+        text: Home
+      - section: "Course information"
+        contents:
+          - href: course-overview.qmd
+            text: Overview
+          - href: course-syllabus.qmd
+            text: Syllabus
+          - href: course-support.qmd
+            text: Support
+          - href: course-team.qmd
+            text: Teaching team
+          - href: course-links.qmd
+            text: Useful links
+          - href: course-faq.qmd
+            text: FAQ
+      - section: "Computing"
+        contents:
+          - href: computing-access.qmd
+            text: Access
+          - href: computing-troubleshooting.qmd
+            text: Troubleshooting
+      - section: "Project"
+        contents:
+          - href: project-description.qmd
+            text: Description
+          - href: project-tips-resources.qmd
+            text: Tips + resources
 
+  page-footer: This guide is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 format:
   html:
