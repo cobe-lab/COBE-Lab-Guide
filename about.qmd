@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About us"
 ---
 
-About this site
+The aim of the new Cognition, Behavior, and Ecology (CoBE) lab @UGent is to provide novel insights in an age-old problem, namely how and why humans and non-human animals differ in their ability to control their behavior in complex social and physical environments.
 
-```{r}
-1 + 1
-```
+Our interdisciplinary team is embedded in the Faculty of Psychology, but we closely collaborate with colleagues from the Faculty of Sciences (biology & ecology) and the Faculty of Veterinary Medicine. 
