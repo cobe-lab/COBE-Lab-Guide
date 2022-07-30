@@ -16,4 +16,4 @@ This guide integrates and extends previous lab guides and documents, including t
 
 [^3]: Poldrack, R.A. (2022). Poldracklab Lab Guide. https://https://github.com/poldracklab/poldracklab.github.io
 
-[^q]: This guide has been created using [Quarto](https://quarto.org). Source code can be retrieved [Github](https://github.com/cobe-lab/Lab-guide/). Comments and suggestions are most welcome and can also be submitted via [Github](https://github.com/cobe-lab/Lab-guide/issue).
+[^q]: This guide has been created using [Quarto](https://quarto.org). Source code can be retrieved via [Github](https://github.com/cobe-lab/Lab-guide/). Comments and suggestions are most welcome and can also be submitted via [Github](https://github.com/cobe-lab/Lab-guide/issue).

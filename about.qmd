@@ -1,10 +1,8 @@
----
-title: "About us"
----
+# "About us"
 
-The aim of the new Cognition, Behavior, and Ecology (CoBE) lab @UGent is to provide novel insights in an age-old problem, namely how and why humans and non-human animals differ in their ability to control their behavior in complex social and physical environments.
+The aim of the 'Cognition, Behavior, and Ecology' (CoBE) lab @UGent is to provide novel insights in an age-old problem, namely how and why humans and non-human animals differ in their ability to control their behavior in complex social and physical environments.
 
-Our interdisciplinary lab is embedded in the Faculty of Psychology, but we closely collaborate with colleagues from the Faculty of Sciences (biology & ecology) and the Faculty of Veterinary Medicine. Furthermore, we have interdisciplanry collaborations with researchers at other national and international universities, the Research Institute for Nature and Forest (INBO Vlaanderen), and with the Wildlife Rescue Centre Ostend, where are avian research facilities are based.   
+Our research approach is strongly interdisciplinary, at theoretical and methodological level. Our lab is embedded in the Faculty of Psychology, but within Ghent University, we closely collaborate with colleagues from the Faculty of Sciences (biology & ecology) and the Faculty of Veterinary Medicine. Furthermore, we have interdisciplinary collaborations with researchers at other national and international universities, the Research Institute for Nature and Forest (INBO Vlaanderen), and with the [Wildlife Rescue Centre Ostend](https://www.vogelopvangcentrum.be), where our avian research facilities are located.    
 
 The lab also aims to be at the forefront of good research practices and Open Science. Where possible and useful, we preregister confirmatory studies and analysis protocols, and share the raw data, code, and experimental materials. Furthermore, we have
 established a ‘co-pilot system’, whereby members of the research team check e.g., each other’s code or rerun (parts of) the analysis. We hope that these practices can further promote transparency, openness, reproducibility, and scientific integrity.
