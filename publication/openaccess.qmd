@@ -1,0 +1,19 @@
+# Open access and preprints
+
+## Open access
+
+- Our default policy is to publish our findings in [Fair Open Access](https://www.fairopenaccess.org) or society-led journals[^OAJ]. However, there might be circumstances in which this option might not be available or that the most appropriate journal for a study does adhere to the principles of [Fair Open Access](https://www.fairopenaccess.org/the-fair-open-access-principles/). In such situations, high-quality Open Access and traditional journals will be considered as well. However, these traditional journals should still meet some minimal requirements; for example, immediate (or at least, fast) Green Open Access should be allowed (i.e. no or only a limited embargo period), preferably via institutional repositories (as this allows proper and long-term archiving).
+
+- When Phd/post-doc project funding is not
+for open access publication fees, Dr. Verbruggen will aim to cover
+these fees using personal funds.
+
+[^OAJ]: Possible journals include [eLIFE](https://elifesciences.org), [Royal Society Open Science](http://rsos.royalsocietypublishing.org), [Journal of Cognition](https://www.journalofcognition.org), or [Open Research Europe](https://open-research-europe.ec.europa.eu). There are several other examples.
+
+
+## Preprints
+
+- Lab members are strongly encouraged to upload their papers to
+a relevant preprint archive prior to or upon submission, unless the
+target journal does not allow preprint publication.
+
