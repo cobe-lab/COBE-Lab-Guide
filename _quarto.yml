@@ -50,32 +50,32 @@ website:
         text: Funding and jobs
       - section: "Publications"
         contents:
-          - href: addressing_errors.qmd
-            text: Addressing errors
+          # - href: addressing_errors.qmd
+          #   text: Addressing errors
           - href: publication/authorship.qmd
             text: Authorship
-          - href: conferences.qmd
+          - href: publication/conferences.qmd
             text: Conferences
-          - href: open_access.qmd
-            text: Open Access 
-          - href: public_engagement.qmd
-            text: Public engagement
+          # - href: open_access.qmd
+          #   text: Open Access 
+          # - href: public_engagement.qmd
+          #   text: Public engagement
       - section: "Research"
-        contents:
-         - href: copilot.qmd
-           text: Copilot system
-         - href: rdm.qmd
-           text: Data Managment
-         - href: extern.qmd
-           text: External partners
-         - href: facilities.qmd
-           text: Facilities
-         - href: ip.qmd
-           text: Intellectual Property
-         - href: preg.qmd
-           text: Preregistration 
-         - href: support.qmd
-           text: Support
+        # contents:
+         # - href: copilot.qmd
+         #   text: Copilot system
+         # - href: rdm.qmd
+         #   text: Data Managment
+         # - href: extern.qmd
+         #   text: External partners
+         # - href: facilities.qmd
+         #   text: Facilities
+         # - href: ip.qmd
+         #   text: Intellectual Property
+         # - href: preg.qmd
+         #   text: Preregistration 
+         # - href: support.qmd
+         #   text: Support
         
           
   page-footer: This guide is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
