@@ -46,10 +46,8 @@ website:
             text: Work/life balance
           - file: environment/working_remotely.qmd
             text: Working remotely
-      - section: "Funding & opportunities"
-        contents:
-          - href: Funding.qmd
-            text: Funding
+      - href: funding/funding.qmd
+        text: Funding and jobs
       - section: "Publications"
         contents:
           - href: addressing_errors.qmd
