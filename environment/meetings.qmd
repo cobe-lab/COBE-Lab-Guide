@@ -1,8 +1,11 @@
-# Lab meetings
+## Lab meetings
+
 1.  All researchers in the lab are expected to attend the bi-weekly lab meetings, except in cases of
-    unavoidable conflict. It generally lasts 1-2 hours. 
+    unavoidable conflict. The meetings generally last 1-2 hours. 
 2.  At the beginning of each meeting, all the members are invited to share the main activities of the
     past two weeks. 
-3.  This progress overview is followed by activities such as a presentation of research projects or data; a talk by an external
-    speakers; or a discussion of specific research papers. Each meeting, another lab member will be in charge of organising such an activity. They can     decide whether they want to present something themselves or invite others. The rotating schedule will be determined at the beginning of the term. 
-4.  In addition to the regular (research-based) lab meetings, we also aim to organize at least one 'social event' for the whole lab per term. 
+3.  This progress overview is followed by an activity, such as a presentation of research projects or data; a talk by an external
+    speaker; or a discussion of specific research papers. 
+4.  For each meeting, another lab member will be in charge of organizing such an activity. Lab members can decide whether they want to present something themselves or invite others. 
+5. The lab meeting schedule (time, place, organizers) will be determined at the beginning of the term. 
+6.  In addition to the regular (research-based) lab meetings, we also aim to organize at least one 'social event' for the whole lab per term. 

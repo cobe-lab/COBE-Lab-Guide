@@ -1,4 +1,4 @@
-# Lab environment
+## Lab environment
 
 In the CoBE Lab, we want all of our lab members to feel valued,
 appreciated, safe, and free to be who they are. We embrace diversity and
