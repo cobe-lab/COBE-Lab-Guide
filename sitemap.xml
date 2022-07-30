@@ -1,23 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cobe-lab.github.io/Lab-guide/file1.html</loc>
-    <lastmod>2022-07-29T09:31:22.547Z</lastmod>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/preregistration.html</loc>
+    <lastmod>2022-07-30T05:16:11.321Z</lastmod>
   </url>
   <url>
-    <loc>https://cobe-lab.github.io/Lab-guide/file2.html</loc>
-    <lastmod>2022-07-29T09:31:22.830Z</lastmod>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/coding_standards.html</loc>
+    <lastmod>2022-07-30T05:16:11.696Z</lastmod>
   </url>
   <url>
-    <loc>https://cobe-lab.github.io/Lab-guide/file3.html</loc>
-    <lastmod>2022-07-29T09:31:23.129Z</lastmod>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/code_management.html</loc>
+    <lastmod>2022-07-30T05:16:12.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/data_management.html</loc>
+    <lastmod>2022-07-30T05:16:12.483Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/research.html</loc>
+    <lastmod>2022-07-30T05:16:12.783Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/statistical_methods.html</loc>
+    <lastmod>2022-07-30T05:16:13.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/intellectual_property.html</loc>
+    <lastmod>2022-07-30T05:16:13.450Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/documentation.html</loc>
+    <lastmod>2022-07-30T05:16:13.757Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/data_analysis_procedures.html</loc>
+    <lastmod>2022-07-30T05:16:14.126Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/research/human_subjects.html</loc>
+    <lastmod>2022-07-30T05:16:14.441Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/publication/publication.html</loc>
+    <lastmod>2022-07-30T05:16:14.715Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/publication/public_engagement.html</loc>
+    <lastmod>2022-07-30T05:16:15.068Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/publication/openaccess.html</loc>
+    <lastmod>2022-07-30T05:16:15.439Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/publication/addressing_errors.html</loc>
+    <lastmod>2022-07-30T05:16:15.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/publication/conferences.html</loc>
+    <lastmod>2022-07-30T05:16:16.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/publication/authorship.html</loc>
+    <lastmod>2022-07-30T05:16:16.415Z</lastmod>
   </url>
   <url>
     <loc>https://cobe-lab.github.io/Lab-guide/index.html</loc>
-    <lastmod>2022-07-29T09:31:24.335Z</lastmod>
+    <lastmod>2022-07-30T05:16:16.812Z</lastmod>
   </url>
   <url>
     <loc>https://cobe-lab.github.io/Lab-guide/about.html</loc>
-    <lastmod>2022-07-29T09:31:25.304Z</lastmod>
+    <lastmod>2022-07-30T05:16:17.172Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/environment/lab_environment.html</loc>
+    <lastmod>2022-07-30T05:16:17.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/environment/meetings.html</loc>
+    <lastmod>2022-07-30T05:16:17.978Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/environment/code_of_conduct.html</loc>
+    <lastmod>2022-07-30T05:16:18.440Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/environment/work_life_balance.html</loc>
+    <lastmod>2022-07-30T05:16:18.838Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/environment/working_remotely.html</loc>
+    <lastmod>2022-07-30T05:16:19.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/environment/mentoring.html</loc>
+    <lastmod>2022-07-30T05:16:19.615Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/environment/communication.html</loc>
+    <lastmod>2022-07-30T05:16:20.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cobe-lab.github.io/Lab-guide/funding/funding.html</loc>
+    <lastmod>2022-07-30T05:16:20.394Z</lastmod>
   </url>
 </urlset>
