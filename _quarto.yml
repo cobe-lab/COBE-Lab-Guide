@@ -56,10 +56,10 @@ website:
             text: Authorship
           - href: publication/conferences.qmd
             text: Conferences
-          - href: open_access.qmd
+          - href: publication/openaccess.qmd
             text: Open Access 
-          # - href: public_engagement.qmd
-          #   text: Public engagement
+          - href: public_engagement.qmd
+            text: Public engagement
       - section: "Research"
         # contents:
          # - href: copilot.qmd
