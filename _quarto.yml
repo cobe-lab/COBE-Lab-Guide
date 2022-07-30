@@ -50,7 +50,7 @@ website:
         text: Funding and jobs
       - section: "Publications"
         contents:
-          - href: addressing_errors.qmd
+          - href: publication/addressing_errors.qmd
             text: Addressing errors
           - href: publication/authorship.qmd
             text: Authorship
@@ -58,7 +58,7 @@ website:
             text: Conferences
           - href: publication/openaccess.qmd
             text: Open Access 
-          - href: public_engagement.qmd
+          - href: publication/public_engagement.qmd
             text: Public engagement
       - section: "Research"
         # contents:
