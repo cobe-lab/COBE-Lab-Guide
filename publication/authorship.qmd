@@ -1,0 +1,98 @@
+## Authorship
+
+Starting from (mid) 2022, our lab will implement the following recommendations of McNutt et al. (2018, p.2557)[^MN]:
+
+- we use common and transparent standards for authorship
+- we outline responsibilities for corresponding authors
+- we adopt the [Contributor Roles Taxonomy (CRediT)](https://credit.niso.org) methodology for attributing contributions
+- we require authors to use a [ORCID persistent digital identifier](https://orcid.org). Lab member's ORCID ID should be [linked to their UGent account](https://onderzoektips.ugent.be/en/tips/00001581/). 
+
+In doing so, we also adhere to the [The European Code of Conduct for Research Integrity (ALLEA-code; section 2.7.)](https://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf)
+
+
+[^MN]: McNutt, M. K., Bradford, M., Drazen, J. M., Hanson, B., Howard, B., Jamieson, K. H., Kiermer, V., Marcus, E., Pope, B. K., Schekman, R., Swaminathan, S., Stang, P. J., & Verma, I. M. (2018). Transparency in authors’ contributions and responsibilities to promote integrity in scientific publication. Proceedings of the National Academy of Sciences, 115(11), 2557–2560.[https://doi.org/10.1073/pnas.1715374115](https://doi.org/10.1073/pnas.1715374115)
+
+
+### Standards for authorship
+
+1. Each author is expected to have made substantial contributions to the conception or design of the work; or the
+acquisition, analysis, or interpretation of data; or the creation
+of new software used in the work; or have drafted the work or
+substantively revised it. 
+
+2. AND to have approved the submitted
+version (and any substantially modified version that
+involves the author’s contribution to the study)
+
+3. AND to have
+agreed both to be personally accountable for the author’s
+own contributions and to ensure that questions related to the
+accuracy or integrity of any part of the work, even ones in
+which the author was not personally involved, are appropriately
+investigated, resolved, and the resolution documented
+in the literature.
+
+(Based on McNutt et al. (2018, p.2558)[^MN])
+
+What constitutes as a 'substantial contribution' is not a black-or-white issue, so at the beginning of each study, we will discuss which contributions warrant first authorship, co-authorship, or acknowledgments. When in doubt, we will generally take a more 'inclusive approach', especially towards early-career researchers (but always with a [clear description of the contributions](#credit-taxonomy)). 
+
+When required or appropriate, authorship agreements for specific studies can be updated throughout the study (after consultation with the PI and involved team members).  
+
+### Responsibilities for corresponding authors
+
+As a general rule, the first author is also the corresponding author. Roles for the corresponding author are as follows: 
+
+1. ensuring that all listed authors have approved the
+manuscript before submission
+
+2. ensure that all authors receive the
+submission and all substantive correspondence with editors, as
+well as the full reviews
+
+3. verify that all data, materials, and code, even those developed or provided by other
+authors, comply with the transparency and reproducibility standards
+of the lab. This responsibility includes but
+is not limited to: 
+
+(i) ensuring that original data/materials/code
+upon which the submission is based are preserved following
+best practices so that they are retrievable for reanalysis;
+
+(ii) foreseeing and minimizing obstacles
+to the sharing of data/materials/code described in the work. 
+
+The CA should be responsible for managing these requirements
+across the author group and ensuring that the entire author group
+is fully aware of and in compliance with best practices outlined in this lab guide.
+
+(Based on McNutt et al. (2018, p.2558)[^MN])
+
+### CRediT taxonomy
+
+We recognize that lab members can make various contributions to a study or project. Starting from (mid) 2022, we therefore use the CRediT taxonomy (Contributor Roles Taxonomy) for all our papers. CRediT includes [14 roles](https://credit.niso.org), that can be used to represent the diverse roles played by contributors to research outputs. 
+
+By using this taxonomy, we can[^plos]:
+
+- Move beyond the coded language of authorship order to more fairly and accurately describe each authors’ role in conceptualizing, conducting, and reporting research
+- Ensure that everyone included on the author list truly played a role in conducting the research
+- Reduce authorship disputes and facilitate collaboration 
+- Give hiring, tenure, and funding committees more insight into the scope and caliber of (current and former) lab member's work
+
+[^plos]: Adapted from [https://plos.org/open-science/credit/](https://plos.org/open-science/credit/)
+
+
+### Affiliation
+
+- The listed affiliation should
+include any institutions where one was affiliated while completing the
+work.   
+
+- Any work completed at
+    Ghent University should include the Ghent University affiliation, even if the
+    individual has left Ghent
+
+- Work completed prior to
+    joining Ghent University but published after joining the lab does not need
+    to include the UGent affiliation, but it may be included (along
+    with the institution where the work was completed) if work was done
+    on the paper (e.g., writing or making substabntial revisions) after joining the lab. 

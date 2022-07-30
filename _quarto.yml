@@ -52,7 +52,7 @@ website:
         contents:
           - href: addressing_errors.qmd
             text: Addressing errors
-          - href: authorship.qmd
+          - href: publication/authorship.qmd
             text: Authorship
           - href: conferences.qmd
             text: Conferences
