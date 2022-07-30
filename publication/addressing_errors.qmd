@@ -1,0 +1,18 @@
+# Addressing errors
+
+Obviously, we aim to minimize errors (e.g., by implementing a ['co-pilot system'](/research/copilot.qmd)). Still, errors can happen. When such errors are spotted, open and honest communication will occur and we will immediately take the appropriate steps to correct them: 
+
+- If we identify an error in a
+    published paper from the lab, all authors should convene promptly to
+    discuss what if any conclusions are affected by the error. 
+- Most journals have a mechanism for either publishing a correction to the
+    article when the primary conclusions of the paper are not
+    substantially affected, or retracting the article if they are. All authors should agree on whether a correction or retraction is
+    warranted, and promptly notify the journal of their recommendation
+    and the nature of the error. 
+- If applicable, a notification and
+    corrected version of the article should also be submitted to the
+    preprint server (e.g., bioRxiv or psyaRxiv), and internal copies of the paper
+    should be corrected and versioned accordingly.  
+
+Thus, even tough we realise that committing errors can occur, dealing with them can be difficult (also at a personal level). The lab is therefore committed to creating a psychologically safe environment in which people can admit when mistakes have been made. 
