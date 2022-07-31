@@ -1,0 +1,20 @@
+## Co-pilot system 
+
+To reduce potential errors and increase the reliability of our findings, the lab has implemented a ‘co-pilot’ system: 
+
+- By default, there is a lead researcher (or ‘pilot’) and a ‘co-pilot’, who is involved in most parts of the workflow. 
+
+- The co-pilot is typically assigned at the beginning of the project. 
+
+- The ‘co-pilot’ researcher not only double-checks the data analysis scripts of the ‘pilot’ researcher, but is can also be involved in other tasks, from the conception of a research idea until the publication of the manuscript (e.g,. double-coding a certain percentage of videos). 
+
+- The co-pilot does not necessarily have to be a lab member; for example, when no one of the lab members has the skills that are required for the lead researcher's project, the lead researcher may look for an appropriate co-pilot in other labs. 
+
+
+The co-pilot system thus serves two goals: it is a quality control system and facilitates mutual learning. The system is described in more detail in [Reimer et al. (2019)](https://doi.org/10.5334/pb.494), and more detailed guidelines can be found on the lab's [Github repo](https://github.com/cobe-lab/Copilot-guidelines). 
+
+Sometimes, lab members might have reasons for opting out, but they should discuss this first with Dr. Verbruggen. 
+
+
+[^cps]: Wicherts, J. M. (2011). Psychology must learn a lesson from fraud case. Nature, 480(7375), 7–7. https://doi.org/10.1038/480007a
+[^R2019]: Reimer, C. B., Chen, Z., Bundt, C., Eben, C., London, R. E., & Vardanian, S. (2019). Open Up – the Mission Statement of the Control of Impulsive Action (Ctrl-ImpAct) Lab on Open Science. Psychologica Belgica, 59(1), 321. https://doi.org/10.5334/pb.494
