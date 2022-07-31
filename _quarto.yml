@@ -61,17 +61,17 @@ website:
           - href: publication/public_engagement.qmd
             text: Public engagement
       - section: "Research"
-        # contents:
-         # - href: copilot.qmd
-         #   text: Copilot system
-         # - href: rdm.qmd
-         #   text: Data Managment
+        contents:
+          - href: research/copilot.qmd
+            text: Copilot system
+          - href: research/rdm.qmd
+            text: Data Management
          # - href: extern.qmd
          #   text: External partners
          # - href: facilities.qmd
          #   text: Facilities
          # - href: ip.qmd
-         #   text: Intellectual Property
+         #   text: Ideas and IP 
          # - href: preg.qmd
          #   text: Preregistration 
          # - href: support.qmd
