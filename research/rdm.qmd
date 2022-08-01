@@ -18,7 +18,7 @@
 
 - The FAIR principles [^7] will provide further guidance: data of finished projects should be **F**indable, **A**ccessible, **I**nteroperable (i.e. others should be able to integrate our data with minimal effort), and **R**eusable. 
 
-- Fully anonymised and non-sensitive data will be made publicly available via e.g. the [Open Science Framework](osf.io) and/or other trusted data repositories[^OSF] upon publication at the latest, and preferably upon preprint submission.
+- Fully anonymised and non-sensitive data will be made publicly available via e.g. the [Open Science Framework](osf.io) and/or other trusted data repositories upon publication at the latest, and preferably upon preprint submission.
 
 - In case of confidential data (e.g. personal or otherwise confidential data), the FAIR principles stipulate that rich metadata should be published to facilitate discovery. Publication of such metadata can also be done via [OSF](osf.io) or other appropriate repositories. These metadata will include clear rules regarding the process and conditions for accessing the data. In other words, everybody can find out if the data exist or not, but not everyone will be able or allowed to access and use them (for any purpose). In case of highly sensitive materials or when misuse and abuse are expected, we may have to ask the local ethics committee to arbitrate and decide who gets access and who doesn’t. These procedures will allow FAIRness in the absence of FAIR publication of the data themselves.
 

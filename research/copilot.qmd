@@ -1,6 +1,6 @@
 ## Co-pilot system 
 
-To reduce potential errors and increase the reliability of our findings, the lab has implemented a ‘co-pilot’ system: 
+To reduce potential errors and increase the reliability of our findings, the lab has implemented a ‘co-pilot’ system[^cps][^R2019]: 
 
 - By default, there is a lead researcher (or ‘pilot’) and a ‘co-pilot’, who is involved in most parts of the workflow. 
 
