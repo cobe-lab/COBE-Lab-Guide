@@ -23,23 +23,23 @@ other online media.
 
 ### Details of Lab Code of Conduct
 
-There are different forms of behaviour that cross personal boundaries:
+- There are different forms of behaviour that cross personal boundaries:
 
-1. Violence: physical or psychological threats or attacks at work.
+  1. Violence: physical or psychological threats or attacks at work.
 
-2. Bullying: repeated behaviour – language, threats, actions, gestures, texts, ignoring, etc. – that is hostile, insulting or offensive. It undermines the person’s character, dignity or (psychological or physical) integrity, or endangers their job.
+  2. Bullying: repeated behaviour – language, threats, actions, gestures, texts, ignoring, etc. – that is hostile, insulting or offensive. It undermines the person’s character, dignity or (psychological or physical) integrity, or endangers their job.
 
-3. Sexual harassment: any form of verbal, non-verbal or physical behaviour with a sexual connotation that undermines a person’s dignity or is threatening, hostile, degrading, humiliating or offensive.
+  3. Sexual harassment: any form of verbal, non-verbal or physical behaviour with a sexual connotation that undermines a person’s dignity or is threatening, hostile, degrading, humiliating or offensive.
 
-4. Discrimination: a person who is treated unequally based on personal characteristics (such as origin, gender, age, sexual orientation, skin colour, religion, beliefs, disability, etc.)
+  4. Discrimination: a person who is treated unequally based on personal characteristics (such as origin, gender, age, sexual orientation, skin colour, religion, beliefs, disability, etc.)
 
 We do not tolerate such behaviors in any way or form. 
 
-4.  We expect lab members to
+-  We expect lab members to
     follow our code of conduct at conferences and workshops and related
     social events, and whenever they are representing the lab in a
     professional context.
-5.  When lab members are invited
+-  When lab members are invited
     to participate in a professional event, they are expected to inquire
     regarding the steps that the organizers are taking to ensure
     diversity prior to accepting any invitation. This includes declining

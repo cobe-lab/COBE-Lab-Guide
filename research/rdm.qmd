@@ -14,19 +14,19 @@
 
 ### Data sharing
 
-The general lab rule is that data should be as open as possible, as closed as necessary [^6]. The FAIR principles [^7] will provide further guidance: data of finished projects should be **F**indable, **A**ccessible, **I**nteroperable (i.e. others should be able to integrate our data with minimal effort), and **R**eusable.
+- The general lab rule is that data should be as open as possible, as closed as necessary [^6]. See [UGent's RDM support](https://www.ugent.be/en/research/datamanagement/after-research/sharing.htm) website for possible restrictions on data sharing.  
+
+- The FAIR principles [^7] will provide further guidance: data of finished projects should be **F**indable, **A**ccessible, **I**nteroperable (i.e. others should be able to integrate our data with minimal effort), and **R**eusable. 
 
 - Fully anonymised and non-sensitive data will be made publicly available via e.g. the [Open Science Framework](osf.io) and/or other trusted data repositories[^OSF] upon publication at the latest, and preferably upon preprint submission.
 
-- In case of confidential data (e.g. personal or otherwise confidential data), the FAIR principles stipulate that rich metadata should be published to facilitate discovery. Publication of such metadata can also be done via [OSF](osf.io) or other appropriate repositories. These metadata will include clear rules regarding the process and conditions for accessing the data. In other words, everybody can find out if the data exist or not, but not everyone will be able or allowed to access and use them (for any purpose). In case of highly sensitive materials or when misuse and abuse are expected, we may have to ask an independent body to arbitrate and decide who gets access and who doesn’t. These procedures will allow FAIRness in the absence of FAIR publication of the data themselves.
+- In case of confidential data (e.g. personal or otherwise confidential data), the FAIR principles stipulate that rich metadata should be published to facilitate discovery. Publication of such metadata can also be done via [OSF](osf.io) or other appropriate repositories. These metadata will include clear rules regarding the process and conditions for accessing the data. In other words, everybody can find out if the data exist or not, but not everyone will be able or allowed to access and use them (for any purpose). In case of highly sensitive materials or when misuse and abuse are expected, we may have to ask the local ethics committee to arbitrate and decide who gets access and who doesn’t. These procedures will allow FAIRness in the absence of FAIR publication of the data themselves.
 
 - When full data sets cannot be shared (e.g., due to legal or ethical reasons), we will share at least the processed data necessary to run the primary statistical analyses (assuming these processed data do not contain confidential information either).
 
 - As outlined in the lab's RDM guidelines, public data sets should always include an experiment documentation file, providing all information that is required to interpret the data files. 
 
 - By default, the data will be published under a [CC BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
-
-
 
 
 [^6]: Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. https://doi.org/10.1038/sdata.2016.18

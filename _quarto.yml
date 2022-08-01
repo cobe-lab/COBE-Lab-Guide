@@ -66,12 +66,12 @@ website:
             text: Copilot system
           - href: research/rdm.qmd
             text: Data management/sharing
-         # - href: extern.qmd
-         #   text: External partners
-         # - href: facilities.qmd
-         #   text: Facilities
+          - href: research/facilities.qmd
+            text: Facilities
           - href: research/ideas_ip.qmd
             text: Ideas and IP 
+          - href: research/network.qmd
+            text: Network 
           - href: research/preg.qmd
             text: Transparancy 
           - href: research/support.qmd
