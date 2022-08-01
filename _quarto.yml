@@ -65,13 +65,13 @@ website:
           - href: research/copilot.qmd
             text: Copilot system
           - href: research/rdm.qmd
-            text: Data Management
+            text: Data management & sharing
          # - href: extern.qmd
          #   text: External partners
          # - href: facilities.qmd
          #   text: Facilities
-         # - href: ip.qmd
-         #   text: Ideas and IP 
+          - href: research/ideas_ip.qmd
+            text: Ideas and IP 
          # - href: preg.qmd
          #   text: Preregistration 
          # - href: support.qmd
