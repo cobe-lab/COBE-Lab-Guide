@@ -1,0 +1,32 @@
+## Research facilities
+
+### Human research 
+
+- For our human research, we use the research facilities of the Department of Experiment Psychology, in which our lab is embedded. 
+We have access to rooms and equipment for e.g., brain stimulation, neuroimaging, psychophysiological research, and eye tracking. Click [here](https://www.ugent.be/pp/experimentele-psychologie/en/research/facilities) for a full overview of the facilities provided by the department. 
+
+- Rooms and equipment can be booked via the departmental website as well ([employees only](https://www.ugent.be/pp/experimentele-psychologie/en/voor-personeel)). 
+
+### Non-human animal research 
+
+- Experiments with non-human animals (mostly avian species) are mostly conducted at the research facilities of Ghent University at the Wildlife Rescue Centre (WRC) Ostend. The WRC is an internationally renowned institution, which specializes in the rescue and rehabilitation of birds. 
+
+- The lab has permanent access to: 
+  - 'B-lofts': 10 outdoor enclosures (10 m2 each)
+  - 'D-lofts': 4 indoor (heated) enclosures (6 m2 each), each with an access to a separate outside enclosure (12 m2 per enclosure). 
+  - A research room (18 m2), with two large test boxes and several smaller (Skinner) boxes. 
+  - A multifunctional room (10 m2) for storage of samples (in freezers) and other research materials. This room can also temporarily house individual animals for short periods of time. 
+  - A large flight cage (+- 110 m2; 7 m high)
+  - A modern office container, allowing researchers to work from the WRC when not testing animals.  
+
+- Lab members also have access to state-of-the-art equipment, such as: 
+  - Large incubators and hatcheries
+  - Various camera systems (including thermal imaging). All enclosures and flight cage(s) are also equipped with cameras, allowing us to monitor animals 24/7. 
+  - All equipment required for taking samples (e.g., blood or tissue samples) and preprosseing them (e.g. centrifuge)
+  - Equipment required to test animals in controlled environments, including touch screens and various custom-made devices (e.g., to detect force of pecks)
+  - GPS trackers for wild animals
+  - A tailored long range ultra-wide band (UWB) tracking system for monitoring individuals in enclosures and the flight cage.  
+
+- Requests for the use of research facilities and equipment at WRC should always be discussed first with Dr. Verbruggen and Dr. Lens. They will discuss such requests in an open and transparent way, ensuring that all team members will get the opportunity to conduct their research in a timely and optimal fashion. It is difficult to specify a blanket policy, but in general, priority will be given to grant-funded projects and PhD projects. 
+
+- For similar reasons, long-term block-booking of all (or most) facilities or equipment for single projects is generally not allowed as we have to take the needs of the whole lab into account (i.e., in this case, 'the needs of the many outweigh the needs of the few'). 
