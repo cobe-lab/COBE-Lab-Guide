@@ -10,10 +10,10 @@ This guide[^q] provides details about the mission, values, and practices of the 
 This guide integrates and extends previous lab guides and documents, including the ['Data management guidelines Ctrl-ImpAct lab'](https://doi.org/10.17605/OSF.IO/VGMUB) [^1] and ['Open Science manifesto Ctrl-ImpAct lab'](https://doi.org/10.17605/OSF.IO/XSDUP) [^2]. The overall structure and novel content sections are copied or adapted from the ['Poldrack Lab Guide'](https://poldracklab.github.io/) (CC-BY4) [^3].
 
 
-[^1]: Verbruggen, F., & Mertens, M. (2018). Data management guidelines Ctrl-ImpAct lab. https://doi.org/10.17605/OSF.IO/VGMUB
+[^1]: Verbruggen, F., & Mertens, M. (2018). Data management guidelines CoBE lab. [https://doi.org/10.17605/OSF.IO/VGMUB](https://doi.org/10.17605/OSF.IO/VGMUB)
 
-[^2]: Verbruggen, F. (2022, July 292018). Open Science manifesto Ctrl-ImpAct lab. https://doi.org/10.17605/OSF.IO/XSDUP
+[^2]: Verbruggen, F. (2022). Open Science manifesto Ctrl-ImpAct lab. [https://doi.org/10.17605/OSF.IO/XSDUP](https://doi.org/10.17605/OSF.IO/XSDUP)
 
-[^3]: Poldrack, R.A. (2022). Poldracklab Lab Guide. https://https://github.com/poldracklab/poldracklab.github.io
+[^3]: Poldrack, R.A. (2022). [Poldracklab Lab Guide](https://https://github.com/poldracklab/poldracklab.github.io)
 
 [^q]: This guide has been created using [Quarto](https://quarto.org). Source code can be retrieved via [Github](https://github.com/cobe-lab/Lab-guide/). Comments and suggestions are most welcome and can also be submitted via [Github](https://github.com/cobe-lab/Lab-guide/issue).
