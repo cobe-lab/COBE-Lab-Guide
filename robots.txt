@@ -1,1 +1,1 @@
-Sitemap: https://cobe-lab.github.io/Lab-guide/sitemap.xml
+Sitemap: https://github.com/cobe-lab/Lab-guide/sitemap.xml
