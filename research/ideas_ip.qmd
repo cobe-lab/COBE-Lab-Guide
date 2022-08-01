@@ -1,5 +1,6 @@
+## Ideas and intellectual property 
 
-## Research ideas and topics
+### Research ideas and topics
 
 - The lab strongly values team work, and we work together on larger projects. Thus, research ideas are often developed with Dr. Verbruggen and other (senior and junior) team members.  
 
@@ -7,7 +8,7 @@
 
 - Lab members can not claim exclusive ownership over specific research topics, research methods, or study species. All lab members will have the opportunity to work on the topic they find most interesting (but see also the section on [Funding](/funding/funding.qmd)), using the research methods and species that are considered most appropriate. 
 
-# Intellectual property
+### Intellectual property
 
 - As discussed in the section on [data management](/research/rdm.qmd), all data collected within our laboratory is meant to be shared upon submission of the related paper.  In cases where these data can be deidentified they will be shared under a public domain dedication ([CC BY 4](https://creativecommons.org/licenses/by/4.0/)), which 'allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator'. Thus, any researcher can continue to use those data once they leave the lab. In other cases it may be necessary to restrict data sharing (e.g. when the data cannot be deidentified), in which case researchers will need to obtain a data use agreement (see point 4 in the [data sharing](/research/rdm.qmd#data-sharing) section).
 
