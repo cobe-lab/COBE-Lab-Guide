@@ -1,0 +1,39 @@
+
+
+## Open Methodology and Transparency
+
+- We aim to preregister all our confirmatory, hypothesis-driven experiments, preferably via [OSF](osf.io). 
+
+- As described by the [Center for Open Science](https://help.osf.io/article/330-welcome-to-registrations), "[Pre]registrations are a formal, transparent “story” of your study. This story describes what your research planned to do, any updates that needed to be made, and the results". 
+
+- A preregistration should therefore include the following information:
+  - Description of the research design and study materials, including planned sample size
+  - Description of motivating research question
+  - Description of the primary hypotheses or outcomes to be tested (or an explicit statement that the study or aspects of the study are simply exploratory)
+  - Description of the outcome variable(s)
+  - Description of the predictor variables including controls, covariates, independent variables (conditions)
+  - Description of the analysis plan (procedures, inclusion/exclusion, further variable construction, tests or models).
+
+- This information in the preregistration has to be as specific as possible, allowing others to exactly replicate our work.
+
+- Deviations from preregistration:
+   - Preregistration should not be viewed as handcuffs. If a detail of the preregistration is clearly suboptimal,
+    then the rationale for using a more appropriate method should be noted, and the optimal method should be used.
+   - Publications should explicitly mention any deviations from the preregistration (including their rationale, and if appropriate, how the deviation influenced the results and their interpretation).
+   - Preregistration also does not prevent additional, post-hoc analyses. But when we conduct these, we will clearly label these as such. 
+    
+    
+- Preregistered experiments are submitted and reviewed after data have been collected. In some circumstances, we may submit the initial proposal as a **Registered Report**. Such reports are reviewed before data have been collected, and passing the first stage of review virtually guarantees publication. 
+
+
+## Exploratory research 
+
+- We may not always have strong predictions at the start of a study. Furthermore, serendipity and accidental findings are key factors in making scientific discoveries. Therefore, the lab highly values exploratory (or 'discovery')[^10] science as well.  Our commitment to 'Open Methodology and increased transparency' does not prevent exploratory research, but it does require us to clearly label it as exploratory.  
+
+- Pilot studies need also not be preregistered, but these are generally subject to a preregistered replication or extension.
+
+
+[^10]: https://en.wikipedia.org/wiki/Discovery_science
+
+
+
