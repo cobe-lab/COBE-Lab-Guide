@@ -1,15 +1,15 @@
 ## Research facilities
 
-### Human research 
+<!-- ### Human research  -->
 
-- For our human research, we use the research facilities of the Department of Experiment Psychology, in which our lab is embedded. 
-We have access to rooms and equipment for e.g., brain stimulation, neuroimaging, psychophysiological research, and eye tracking. Click [here](https://www.ugent.be/pp/experimentele-psychologie/en/research/facilities) for a full overview of the facilities provided by the department. 
+<!-- - For our human research, we use the research facilities of the Department of Experiment Psychology, in which our lab is embedded.  -->
+<!-- We have access to rooms and equipment for e.g., brain stimulation, neuroimaging, psychophysiological research, and eye tracking. Click [here](https://www.ugent.be/pp/experimentele-psychologie/en/research/facilities) for a full overview of the facilities provided by the department.  -->
 
-- Rooms and equipment can be booked via the departmental website as well ([employees only](https://www.ugent.be/pp/experimentele-psychologie/en/voor-personeel)). 
+<!-- - Rooms and equipment can be booked via the departmental website as well ([employees only](https://www.ugent.be/pp/experimentele-psychologie/en/voor-personeel)).  -->
 
-### Non-human animal research 
+<!-- ### Non-human animal research  -->
 
-- Experiments with non-human animals (mostly avian species) are mostly conducted at the research facilities of Ghent University at the Wildlife Rescue Centre (WRC) Ostend. The WRC is an internationally renowned institution, which specializes in the rescue and rehabilitation of birds. 
+- Experiments with avian species are mostly conducted at the research facilities of Ghent University at the Wildlife Rescue Centre (WRC) Ostend. The WRC is an internationally renowned institution, which specializes in the rescue and rehabilitation of birds. 
 
 - The lab has permanent access to: 
   - 'B-lofts': 10 outdoor enclosures (10 m2 each)

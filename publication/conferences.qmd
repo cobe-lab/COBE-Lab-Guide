@@ -1,7 +1,7 @@
 ## Conferences
 
 ### Funding and attendence
-- The laboratory will generally
+- The lab will generally
 fund the attendance of members to at least one conference per year,
 pending funding availability. 
   
@@ -26,9 +26,9 @@ coauthors sufficient time to review the submission.
 
 - Unless otherwise agreed, we use the same authorship guidelines as for research articles. 
 
-- As presentations at conferences also count as 'research output', all lab members should share a pdf of their presentation with Dr. Verbruggen (so that he can then share this with funders -- when required  -- and comply with their funding requirements). Lab members are also encouraged to make a copy of their presentation publicly available (see [Dr. Verbruggen's osf.io page for examples](https://osf.io/72y8z/)).  
+- As presentations at conferences also count as 'research output', all lab members should share a pdf of their presentation with the PIs (so that he can then share this with funders -- when required). Lab members are also encouraged to make a copy of their presentation publicly available (see [Dr. Verbruggen's osf.io page for examples](https://osf.io/72y8z/)).  
 
-- Lab members should acknowledge all relevant funding agencies in their presentations. When in doubt, contact Dr. Verbruggen. 
+- Lab members should acknowledge all relevant funding agencies in their presentations. When in doubt, contact the PIs. 
 
 
 

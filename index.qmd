@@ -1,13 +1,13 @@
 ---
-title: "The 'Cognition Behavior and Ecology' Lab Guide"
+title: "The 'Centre for Research on Ecology, Cognition and Behaviour of Birds' (ECoBird) Guide"
 ---
 
-This guide[^q] provides details about the mission, values, and practices of the 'Cognition, Behavior, and Ecology' (COBE) Lab at Ghent University (PI: Frederick Verbruggen). This guide is intended for:
+This guide[^q] provides details about the mission, values, and practices of the ECoBird group at Ghent University (PI: Luc Lens and Frederick Verbruggen). This guide is intended for:
 
 -   Individuals who are joining the lab, to describe the standards and practices that they are expected to adhere to
 -   Individuals who are considering joining the lab, to provide a picture of the lab environment and practices.
 
-This guide integrates and extends previous lab guides and documents, including the ['Data management guidelines Ctrl-ImpAct lab'](https://doi.org/10.17605/OSF.IO/VGMUB) [^1] and ['Open Science manifesto Ctrl-ImpAct lab'](https://doi.org/10.17605/OSF.IO/XSDUP) [^2]. The overall structure and novel content sections are copied or adapted from the ['Poldrack Lab Guide'](https://poldracklab.github.io/) (CC-BY4) [^3].
+This guide integrates and extends previous lab guides and documents, including the ['Data management guidelines CoBE lab'](https://doi.org/10.17605/OSF.IO/VGMUB) [^1] and ['Open Science manifesto'](https://doi.org/10.17605/OSF.IO/XSDUP) [^2]. The overall structure and novel content sections are copied or adapted from the ['Poldrack Lab Guide'](https://poldracklab.github.io/) (CC-BY4) [^3].
 
 
 [^1]: Verbruggen, F., & Mertens, M. (2018). Data management guidelines CoBE lab. [https://doi.org/10.17605/OSF.IO/VGMUB](https://doi.org/10.17605/OSF.IO/VGMUB)
@@ -16,4 +16,4 @@ This guide integrates and extends previous lab guides and documents, including t
 
 [^3]: Poldrack, R.A. (2022). [Poldracklab Lab Guide](https://https://github.com/poldracklab/poldracklab.github.io)
 
-[^q]: This guide has been created using [Quarto](https://quarto.org). Source code can be retrieved via [Github](https://github.com/cobe-lab/Lab-guide/). Comments and suggestions are most welcome and can also be submitted via [Github](https://github.com/cobe-lab/Lab-guide/issue).
+[^q]: This guide has been created using [Quarto](https://quarto.org). Source code can be retrieved via [Github](https://github.com/ecobird-ugent/Lab-guide/). Comments and suggestions are most welcome and can also be submitted via [Github](https://github.com/ecobird-ugent/Lab-guide/issue).

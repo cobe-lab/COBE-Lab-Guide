@@ -2,10 +2,10 @@
 
 ### Research assistants and PhD students
 
-- Most Research Assistants and PhD students are (at least initially) funded through existing grants awarded to the PI or collaborators. The work of the PhD students is typically closely aligned with the goals and research aims of the overall project. 
+- Most Research Assistants and PhD students are (at least initially) funded through existing grants awarded to the PIs or collaborators. The work of the PhD students is typically closely aligned with the goals and research aims of the overall project. 
 - PhD students can also apply for their own funding. For fellowships from the [Research Foundation - Flanders](https://www.fwo.be/en/fellowships-funding/phd-fellowships/phd-fellowship-fundamental-research/) 
 and the [Special Research Fund - Ghent University](https://www.ugent.be/en/research/funding/bof/doc/docen.htm), this can still happen within the first year of the PhD. 
-- RA and PhD positions are often advertised, but MSc students interested in doing a PhD are invited to contact Dr. Verbruggen directly. 
+- RA and PhD positions are often advertised, but MSc students interested in doing a PhD are invited to contact Dr. Lens or Dr. Verbruggen directly. 
 Be sure to send your CV, and
     explain in brief your research interests and why you think you would
     be a good fit for the lab.
@@ -20,7 +20,7 @@ Be sure to send your CV, and
     through existing grants. In this case, the postdoc must spend a significant portion of
     their time working on that project. The lab will provide
     these postdocs the room to develop their own ideas, but still within the context of the project they are working on.
-- Post-doc fellowships are generally not advertised by ourselves, so if you are interested in applying for a fellowship or personal grant within our team, contact Dr. Verbruggen directly. Be sure to send your CV, and
+- Post-doc fellowships are generally not advertised by ourselves, so if you are interested in applying for a fellowship or personal grant within our team, contact Dr. Lens or Dr. Verbruggen directly. Be sure to send your CV, and
     explain in brief your research interests and why you think you would
     be a good fit for the lab.
 - We are particularly
@@ -28,7 +28,7 @@ Be sure to send your CV, and
     through their personal identity, research interests or background, or experience. 
     
     
-### Programs that have funded COBE (@UGent) PhD students and postdocs
+### Programs that have funded ECoBird PhD students and postdocs
 
 - [Research Foundation - Flanders](https://www.fwo.be/en/) (PhD & post-doc) 
 - [Special Research Fund - Ghent University](https://www.ugent.be/en/research/funding/bof/)

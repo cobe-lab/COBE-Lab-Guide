@@ -1,6 +1,6 @@
 # Lab-guide
 
-This guide provides details about the mission, values, and practices of the 'Cognition, Behavior, and Ecology' (COBE) Lab at Ghent University (PI: Frederick Verbruggen). This guide is intended for:
+This guide provides details about the mission, values, and practices of the 'Ecology, Cognition and Behaviour of Birds' (ECoBird) group at Ghent University (PI: Luc Lens and Frederick Verbruggen). 
 
 This guide has been created using [Quarto](https://quarto.org). The source code (qmd files) can be found in the main branch of this Github repo. 
 GitHub pages is then used for publising the html files based on this source coude. These html files can be found in the gh-pages branch of this repo. 

@@ -1,8 +1,6 @@
 ## Code of conduct
 
-All lab members and guests are expected to adhere to the following code of conduct. 
-
-In addition, all lab members are required to adhere to the [Ghent University code of conduct on boundary-crossing behaviour](https://codex.ugent.be/?regid=REG000110&lang=en).
+All lab members and guests are expected to adhere to the lab's code of conduct. In addition, all lab members are required to adhere to the [Ghent University code of conduct on boundary-crossing behaviour](https://codex.ugent.be/?regid=REG000110&lang=en).
 
 If you wish to speak with someone outside of the lab regarding an
 incident that occurred in or outside of the lab, you can contact [Trustpunt](https://www.ugent.be/intranet/en/human-resources/health-safety/psychosocial-welfare/overview.htm) 
@@ -58,7 +56,7 @@ Some boundaries are clear and leave no room for discussion. However, others depe
     misconduct are expected to comply immediately. 
     
   - If you are being harassed, notice that someone else is being harassed, or have any other
-    concerns, please contact Dr. Verbruggen as soon as possible. 
+    concerns, please contact Dr. Lens or Dr. Verbruggen as soon as possible. 
     <!-- Anonymous -->
     <!-- comments may also be made to Dr. Poldrack using[ -->
     <!-- this -->

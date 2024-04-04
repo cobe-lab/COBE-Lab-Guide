@@ -1,15 +1,15 @@
 
 ## Communication 
 
-- Dr. Verbruggen primarily relies upon email for communication, and generally responds quickly to
-emails unless traveling or away from work. Unless otherwise agreed (e.g., for field work), alternative communication channels (such as Slack, Signal, or Whatsapp) should only be used for non-urgent or non-work-related messages. 
+- The PIs primarily rely upon email for communication, and generally responds quickly to
+emails unless traveling or away from work. 
 
-- Our projects often involve several team members. Project updates can be shared at lab meetings and ad hoc project meetings. For large collaborative projects, updates should also be shared via email with the whole team at a regular basis, as some collaborators may not be able to join all meetings. 
+- Our projects often involve several team members. Project updates can be shared at [lab meetings](/environment/meetings.qmd) and ad hoc project meetings. For large collaborative projects, regular updates should also be shared via email with the whole team, as some collaborators may not be able to join all meetings. 
 
 - If you expect a direct response or action to an email, use the “To” field; if you want to keep people in the loop in a transparent way, use the “Cc” field.
 
-- As a general rule, place the PI and co-Is (or PhD supervisors) in cc in all important team conversations. 
+- As a general rule, place the PI and co-Is (or PhD supervisors) in cc in all *important* team conversations. 
 
-- All communication with the staff of the Wildlife Rescue Centre (where our avian research facilities are located) should should happen via Reinoud Allaert (our WRC liaison person), with Dr. Verbruggen and Dr. Lens in cc (or in special circumstances, directly via Dr. Verbruggen & Dr. Lens).  In the past, we have had issues where (sometimes conflicting) requests were coming from multiple members of our lab, causing confusion and misunderstandings. Therefore, in general, you should not directly contact the WRC staff with requests (unless otherwise agreed beforehand)
+- All important communication with the staff of the Wildlife Rescue Centre (where our avian research facilities are located) should should happen via Nathan Audenaert or Reinoud Allaert, with Dr. Verbruggen and Dr. Lens in cc (or in special circumstances, directly via Dr. Verbruggen & Dr. Lens). In the past, we have had issues where (sometimes conflicting) requests were coming from multiple members of our lab, causing confusion and misunderstandings. Therefore, in general, you should not directly contact the WRC staff with requests (unless otherwise agreed beforehand)
 
-- When contacting external partners or companies, Dr. Verbruggen should be informed as well (to avoid situations where he is contacted by these people without being aware of the original request). Thus, Dr. Verbruggen should also be cc'ed in those initial conversations (unless otherwise agreed beforehand). 
+- When contacting external partners or companies, the PIs should be informed as well (to avoid situations where he is contacted by these people without being aware of the original request). Thus, the PIs should also be cc'ed in those initial conversations (unless otherwise agreed beforehand). 

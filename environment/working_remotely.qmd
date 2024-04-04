@@ -1,9 +1,8 @@
 ## Working remotely
 
 -  We support the needs of lab members who must work remotely.   
--  Any remote work must be first discussed with Dr. Verbruggen. 
-- Following this discussion, telework requests can be formalised in a telework charter, in accordance with [UGent's policies]
-(https://www.ugent.be/intranet/en/workplace-buildings/teleworking/teleworkrequest.htm)
+-  Any remote work must be first discussed with the PIs. 
+- Following this discussion, telework requests can be formalised in a telework charter, in accordance with [UGent's policies](https://www.ugent.be/intranet/en/workplace-buildings/teleworking/teleworkrequest.htm)
 
 
 More information about UGent's telework framework can be found on the [intranet](https://www.ugent.be/intranet/en/workplace-buildings/teleworking). 
