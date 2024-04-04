@@ -1,9 +1,9 @@
 project:
   type: website
-  title: "The 'Cognition Behavior and Ecology' Lab Guide"
+  title: "The 'Centre for Research on Ecology, Cognition and Behaviour of Birds' (ECoBird) Lab Guide"
 
 website:
-  title: "The 'Cognition Behavior and Ecology' Lab Guide"
+  title: "The 'Centre for Research on Ecology, Cognition and Behaviour of Birds' (ECoBird) Lab Guide"
   page-navigation: true
   
   navbar:
@@ -11,14 +11,14 @@ website:
     collapse-below: lg
     right:
       - icon: twitter
-        href: https://twitter.com/cobe_lab
-        aria-label: COBE Lab Twitter
+        href: https://twitter.com/ECoBird_UGent
+        aria-label: ECoBird Twitter
       - icon: github
         menu:
           - text: Source Code
-            url:  https://github.com/cobe-lab/Lab-guide
+            url:  https://github.com/ecobird-ugent/Lab-guide
           - text: Comments
-            url:  https://github.com/cobe-lab/Lab-guide/issue
+            url:  https://github.com/ecobird-ugent/Lab-guide/issue
 
   sidebar:
     style: "docked"
@@ -72,8 +72,8 @@ website:
             text: Ideas and IP 
           - href: research/network.qmd
             text: Network 
-          - href: research/preg.qmd
-            text: Transparancy 
+          # - href: research/preg.qmd
+          #   text: Transparancy 
           - href: research/support.qmd
             text: Support
         

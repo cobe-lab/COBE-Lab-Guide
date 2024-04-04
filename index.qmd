@@ -2,7 +2,7 @@
 title: "The 'Centre for Research on Ecology, Cognition and Behaviour of Birds' (ECoBird) Guide"
 ---
 
-This guide[^q] provides details about the mission, values, and practices of the ECoBird group at Ghent University (PI: Luc Lens and Frederick Verbruggen). This guide is intended for:
+This guide[^q] provides details about the mission, values, and practices of the ECoBird group at Ghent University (PIs: Luc Lens and Frederick Verbruggen). This guide is intended for:
 
 -   Individuals who are joining the lab, to describe the standards and practices that they are expected to adhere to
 -   Individuals who are considering joining the lab, to provide a picture of the lab environment and practices.
